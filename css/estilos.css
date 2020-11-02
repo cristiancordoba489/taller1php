@@ -1,0 +1,16 @@
+body{
+    /*para cambiarle el fondo a toda la pantalla*/
+   /* background-color: rgb(162, 210, 224);*/
+    background-color: thistle;
+}
+/*cambiar el color del titulo en este caso es el h1*/
+h1{
+    color: rgb(9, 13, 243);
+    /*tamaño de la letra*/
+    font-size: 40px;
+    /*letra cursiva etc*/
+    font-style: normal;
+    /*el contorno de la letra en este caso es redonda*/
+    font-weight: bold;
+}
+/*me toca investigar como se agrega un letra externa en visula code para modidifcar el titulo*/
